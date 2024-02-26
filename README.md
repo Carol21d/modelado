@@ -1,3 +1,5 @@
-![modelado_2 drawio](https://github.com/Carol21d/modelado/assets/117730103/e23035ed-b27c-4714-96f0-295a22d0b9d5)
+![modelado2 drawio](https://github.com/Carol21d/modelado/assets/117730103/12438ad6-7c92-4a65-8960-85719053e59c)
 
-[videoclub.txt](https://github.com/Carol21d/modelado/files/14324779/videoclub.txt)
+
+
+[videoclub.txt](https://github.com/Carol21d/modelado/files/14398420/videoclub.txt)
